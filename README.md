@@ -1,4 +1,4 @@
-🛡️ Proctored Exam Attestations (Blockchain)
+<h1>🛡️ Proctored Exam Attestations (Blockchain)</h1>
 
 📌 Description
 This project implements a Proctored Exam Attestation system on the blockchain.
